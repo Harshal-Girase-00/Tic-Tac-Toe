@@ -25,6 +25,7 @@ const newGame=() => {
   count=0;
   enableBoxes();
   msgContainer.classList.add("hide");
+  main.classList.remove("main");
 }
 const resetGame=() => {
   turnO=true;
