@@ -118,7 +118,7 @@ h1{
 
 .game {
   height: 80vmin;
-  width: 80vmi;
+  width: 80vmin;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
